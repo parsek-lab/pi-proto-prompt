@@ -1,6 +1,6 @@
 {
   "name": "pi-proto-prompt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Modal scratch notes appended to the Pi prompt",
   "type": "module",
   "license": "MIT",
